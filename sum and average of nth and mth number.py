@@ -1,0 +1,9 @@
+arr=[76,34,86,79,90,43,89,65,346,689]
+arr.sort(reverse=True)
+print(arr)
+m=arr[0]
+n=arr[7]
+sum=m+n
+difference=m-n
+print("sum:",sum)
+print("difference:",difference)
